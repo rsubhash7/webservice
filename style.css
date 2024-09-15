@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.card{
+  margin: 0 30px;
+  box-shadow: 10px 20px 25px;
+}
+.navbar-brand {
+  color: aliceblue;
+}
+.nav-item a{
+  margin: 0px 16px;
+  color: rgb(221, 230, 237);
+  
+}
+.nav-item a:hover{
+  color: aliceblue;
+}
+.navbar-brand:hover{
+  color: aliceblue;
+}
+.about-us{
+  margin-top: 420px 0px 90px 0px;
+}
+.about-us h2{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 45px;
+  font-weight: 400px;
+  padding-bottom: 20px;
+}
+.about-us p{
+  display: flex;
+  justify-content: center;
+  font-size: 35px;
+  line-height: 13px;
+  font-weight: 40px;
+  color: rgb(27, 27, 39);
+  font-family: "Poppins", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  padding-bottom: 20px;
+}
